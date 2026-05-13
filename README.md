@@ -46,7 +46,9 @@ Advanced DLL injection tool with multiple injection methods and stealth features
 5. Gerekiyorsa ek gizlilik seçeneklerini işaretleyin.
 6. "PERFORM INJECTION" butonuna tıklayın.
 
-## Credits
+<img width="1771" height="1012" alt="image" src="https://github.com/user-attachments/assets/37cd783b-757d-4f50-881d-4c73a34e375b" />
+<img width="1832" height="1039" alt="image" src="https://github.com/user-attachments/assets/244cbc24-297d-44e8-9ce4-dce34f28422e" />
+<img width="486" height="683" alt="image" src="https://github.com/user-attachments/assets/f6d5d3af-a511-4d52-bd1d-e73d79777dd2" />
 
-Developed by hasanerman.
-https://github.com/hasanerman
+
+
